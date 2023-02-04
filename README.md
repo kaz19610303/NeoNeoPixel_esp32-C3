@@ -1,1 +1,1 @@
-# NeoNeoPixel_esp32-C3
+# NeoPixel_esp32-C3
